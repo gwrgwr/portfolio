@@ -1,0 +1,5 @@
+.drop-filter {
+    box-shadow: 0 8px 32px 0 theme('colors.purple.700');
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+}
